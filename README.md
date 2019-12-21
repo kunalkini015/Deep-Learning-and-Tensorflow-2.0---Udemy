@@ -1,2 +1,2 @@
-Deep-Learning-and-Tensorflow-2.0---Udemy <br/>
-The repository consists of all the files that I used during the my course of Deep learning by Jose Portilla
+<b>Deep-Learning-and-Tensorflow-2.0</b><br/>
+This repository contains all the files that I created during my udemy course Deep learning and tensorflow 2.0 by Jose Portilla.
